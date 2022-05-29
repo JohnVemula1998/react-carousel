@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-carousel/static/css/main.38be36b0.css",
+    "main.js": "/react-carousel/static/js/main.b12fbbc3.js",
+    "static/js/787.45ce493a.chunk.js": "/react-carousel/static/js/787.45ce493a.chunk.js",
+    "index.html": "/react-carousel/index.html",
+    "main.38be36b0.css.map": "/react-carousel/static/css/main.38be36b0.css.map",
+    "main.b12fbbc3.js.map": "/react-carousel/static/js/main.b12fbbc3.js.map",
+    "787.45ce493a.chunk.js.map": "/react-carousel/static/js/787.45ce493a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.b12fbbc3.js"
+  ]
+}
